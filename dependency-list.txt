@@ -1,0 +1,16 @@
+[INFO] Scanning for projects...
+[INFO] 
+[INFO] --------------------< clinic.programmming:example >---------------------
+[INFO] Building example 1.0
+[INFO]   from pom.xml
+[INFO] --------------------------------[ jar ]---------------------------------
+[INFO] 
+[INFO] --- dependency:3.6.1:tree (default-cli) @ example ---
+[INFO] clinic.programmming:example:jar:1.0
+[INFO] \- org.apache.commons:commons-lang3:jar:3.14.0:compile
+[INFO] ------------------------------------------------------------------------
+[INFO] BUILD SUCCESS
+[INFO] ------------------------------------------------------------------------
+[INFO] Total time:  2.350 s
+[INFO] Finished at: 2024-05-07T18:59:43+02:00
+[INFO] ------------------------------------------------------------------------
